@@ -1,2 +1,3 @@
 include *.cpp *.hpp Makefile
 include bin/*
+include /usr/lib/x86_64-linux-gnu/libstdc++.so.6 
