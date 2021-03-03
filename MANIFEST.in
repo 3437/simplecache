@@ -1,1 +1,2 @@
 include *.cpp *.hpp Makefile
+include bin/*
