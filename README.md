@@ -2,7 +2,7 @@
 
 ![C/C++ CI](https://github.com/shosatojp/simplecache/workflows/C/C++%20CI/badge.svg)
 
-Chrome(Linux,Android) cache extractor.
+Chrome(Linux) cache extractor.
 
 ## Usage
 
